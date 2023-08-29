@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Jiaxu Wu
+description: Jiaxu Wu's personal blogs
+url: https://jiaxuwu.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -38,10 +38,10 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Jiaxu Wu
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/JiaxuWu6
+    - https://github.com/jiaxuwu
 google_site_verification: xxxxx
 lang: en
 
