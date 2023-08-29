@@ -1,0 +1,18 @@
+# Site settings
+name: Jiaxu Wu
+location: Quebec City, Quebec, Canada
+univeristy: Université Laval
+position: PhD student
+github: https://github.com/jiaxuwu
+ORCID: https://orcid.org/0000-0002-9165-2076
+Google Scholar: https://scholar.google.com/citations?user=rTJDRJMAAAAJ&hl=en
+email: jiwu08@ulaval.ca
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
