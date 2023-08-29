@@ -34,7 +34,7 @@ remote_theme: vszhub/not-pure-poole
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Jiaxuw-plant
   card: summary
 logo: logo.png
 social:
@@ -59,6 +59,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Jia
-  url: xu
-  email: wu
+  name: Jiaxu Wu
+  url: https://github.com/jiaxuwu
+  email: jiwu08@ulaval.ca
