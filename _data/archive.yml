@@ -1,9 +1,9 @@
-- type: dates
+- type: date
   title: Research
   url: /dates/
-- type: categories
+- type: 
   title: Publications
   url: /categories/
-#- type: tags
+## - type: tags
   title: tags
   url: /tags/
