@@ -1,8 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+My name is **Jiaxu Wu**, and now I am a PhD student at Université Laval, Quebec, Canada.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+Education 
+
+
+My academic profile: 
+[Google Scholar] (https://scholar.google.com/citations?user=rTJDRJMAAAAJ&hl=en)
+[Research Gate] (https://www.researchgate.net/profile/Jiaxu-Wu)
+[ORCID] (https://orcid.org/0000-0002-9165-2076)
