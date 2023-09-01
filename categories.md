@@ -14,4 +14,5 @@ type: publications
 6. **Wu, J.** and Pérez-López, E., 2023. A multilayer strategy is needed to uncover the clubroot pathogen mysteries. ***Physiological and Molecular Plant Pathology***, p.101971.https://doi.org/10.1016/j.pmpp.2023.101971
 
 #Thesis  
+
 **Wu, J.**, 2022. *Evaluating role of phosphatidic acid in cold stress tolerance in silage-corn* (MSc dissertation, Memorial University of Newfoundland). https://doi.org/10.48336/QDVD-ZE22  
