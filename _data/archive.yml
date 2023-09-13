@@ -1,7 +1,7 @@
 - type: date
   title: Research
   url: /dates/
-- type: Publications
+- type: publications
   title: Publications
   url: /publications/
 ## - type: tags
