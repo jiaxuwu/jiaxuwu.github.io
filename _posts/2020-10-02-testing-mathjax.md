@@ -5,7 +5,8 @@ tags: research
 date: 2023-04-02 15:32 +0800
 ---
 **Resistance gene enrichment sequencing (RenSeq)** is an NLR gene-targeted, enrichment and sequencing method that allows us to discover 
-and annotate the full complement of genes that encode NLR genes (Steuernagel et al. 2016). Several tools have also been developed to 
+and annotate the full complement of genes that encode NLR genes (Steuernagel et al. 2016).   
+Several tools have also been developed to 
 annotate plant NLR genes in a rapid way, such as NLR-parser (Steuernagel et al. 2015), NLGenomeSweeper (Toda et al. 2020) and NLR-Annotator 
 (Steuernagel et al. 2020). Ren-seq allows us to design bait libraries using NLR sequences predicted from plant genomes. After that, the complementarity of 
 isolated DNA to baits can enrich NLR encoding fragments, and more than 500-fold enrichment of NLR genes relative to other genes can be achieved. 
