@@ -6,10 +6,10 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [blog]
 toc:  true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
+Welcome to my website, my name is **Jiaxu Wu**, and I am very happy that you can find me here :) 
 {: .message }
 
-First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
+First, do you notice the TOCa on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
