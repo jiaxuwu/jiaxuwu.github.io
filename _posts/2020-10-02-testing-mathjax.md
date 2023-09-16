@@ -25,6 +25,4 @@ as well as the characterization of disease-resistance genes (Dolatabadian et al.
 required for RenSeq. Overall, RenSeq could be applied to Brassica crops to investigate NLR-mediated clubroot resistance, but this should happen in 
 close collaboration with the industry to finally understand the mechanisms behind CR cultivars used by growers and move towards the development of 
 new and more stable elite cultivars.  
-In this project, we combine RenSeq (a state-of-the-art sequencing method) and confirmatory analysis (i.e., transformation and proteomics) exclusively using commercial 
-canola germplasm. The NLR genes responsible for CRM, CR1 and CRB resistance will be identified and characterized to provide a toolbox that strengthens current clubroot resistant canola breeding programs. Understanding the resistance mechanisms will allow researchers to make informed breeding decisions and increase the stability and success of varieties combining these resistance profiles.
 
