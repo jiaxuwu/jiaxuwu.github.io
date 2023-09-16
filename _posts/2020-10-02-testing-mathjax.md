@@ -12,7 +12,7 @@ and annotate the full complement of genes that encode NLR genes (Steuernagel et 
 
   
 Several tools have also been developed to annotate plant NLR genes in a rapid way, such as NLR-parser (Steuernagel et al. 2015), NLGenomeSweeper (Toda et al. 2020) and NLR-Annotator 
-(Steuernagel et al. 2020). Ren-seq allows us to design bait libraries using NLR sequences predicted from plant genomes. After that, the complementarity of 
+(Steuernagel et al. 2020). Renseq allows us to design bait libraries using NLR sequences predicted from plant genomes. After that, the complementarity of 
 isolated DNA to baits can enrich NLR encoding fragments, and more than 500-fold enrichment of NLR genes relative to other genes can be achieved. 
 The repetitive nature of NLR genes hampered de novo assembly of this family. Reads generated are around 3-4 kb in length (longer than average NLR sequence). 
 These long sequence reads are especially well suited for de novo assembly of whole NLR genes including their regulatory elements. Ren-Seq has been 
@@ -26,5 +26,5 @@ required for RenSeq. Overall, RenSeq could be applied to Brassica crops to inves
 close collaboration with the industry to finally understand the mechanisms behind CR cultivars used by growers and move towards the development of 
 new and more stable elite cultivars.  
 In this project, we combine RenSeq (a state-of-the-art sequencing method) and confirmatory analysis (i.e., transformation and proteomics) exclusively using commercial 
-canola germplasm. The NLR genes responsible for CRM, CR1 and CRB resistance will be identified and characterized to provide a toolbox that strengthens current CR canola breeding programs. Understanding the resistance mechanisms will allow researchers to make informed breeding decisions and increase the stability and success of varieties combining these resistance profiles.
+canola germplasm. The NLR genes responsible for CRM, CR1 and CRB resistance will be identified and characterized to provide a toolbox that strengthens current clubroot resistant canola breeding programs. Understanding the resistance mechanisms will allow researchers to make informed breeding decisions and increase the stability and success of varieties combining these resistance profiles.
 
