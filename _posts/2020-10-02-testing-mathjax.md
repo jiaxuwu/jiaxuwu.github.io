@@ -2,6 +2,7 @@
 layout: post
 title: How Renseq technology will save canola from clubroot
 tags: research
+author: Jiaxu Wu
 date: 2023-04-02 15:32 +0800
 ---
 **Resistance gene enrichment sequencing (RenSeq)** is an NLR gene-targeted, enrichment and sequencing method that allows us to discover 
