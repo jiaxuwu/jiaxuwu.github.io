@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How Renseq technology will save canola from clubroot
-tags: research
+tags: 
+- Bioinformatics
+- Research
 author: Jiaxu Wu
 date: 2023-04-02 15:32 +0800
 ---
@@ -17,7 +19,7 @@ These long sequence reads are especially well suited for de novo assembly of who
 successfully employed in Solanum americanum, tomato, wheat, and potato (Andolfo et al. 2014; Arora et al. 2023; Steuernagel et al. 2016; Witek et al. 2016a; 
 Witek et al. 2021; Zhang et al. 2021a). Recently, Zhang et al. (2021a) successfully isolated two, unrelated stem rust resistance NLR genes, Sr26 and Sr61, 
 from Thinopyrum ponticum by employing MutRenSeq (Mutagenesis RenSeq).  
-It has not yet been not possible to apply RenSeq in B. napus due to the low-quality reference genome, a limited understanding of resistance genes in this species, and restricted access to disease-resistant canola germplasm. 
+It has not yet been not possible to apply RenSeq in *B. napus* due to the low-quality reference genome, a limited understanding of resistance genes in this species, and restricted access to disease-resistant canola germplasm. 
 Recent advances such as the resequencing of canola and other Brassica spp. whole genomes (Chen et al. 2021b; Song et al. 2020; Yang et al. 2022), 
 as well as the characterization of disease-resistance genes (Dolatabadian et al. 2020), offer an ideal opportunity to design the NLR baits 
 required for RenSeq. Overall, RenSeq could be applied to Brassica crops to investigate NLR-mediated clubroot resistance, but this should happen in 
