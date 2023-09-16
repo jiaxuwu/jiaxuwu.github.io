@@ -17,8 +17,11 @@ isolated DNA to baits can enrich NLR encoding fragments, and more than 500-fold 
 The repetitive nature of NLR genes hampered de novo assembly of this family. Reads generated are around 3-4 kb in length (longer than average NLR sequence). 
 These long sequence reads are especially well suited for de novo assembly of whole NLR genes including their regulatory elements. Ren-Seq has been 
 successfully employed in Solanum americanum, tomato, wheat, and potato (Andolfo et al. 2014; Arora et al. 2023; Steuernagel et al. 2016; Witek et al. 2016a; 
-Witek et al. 2021; Zhang et al. 2021a). Recently, Zhang et al. (2021a) successfully isolated two, unrelated stem rust resistance NLR genes, Sr26 and Sr61, 
-from Thinopyrum ponticum by employing MutRenSeq (Mutagenesis RenSeq).  
+Witek et al. 2021; Zhang et al. 2021a). Recently, Zhang et al. (2021a) successfully isolated two, unrelated stem rust resistance NLR genes, *Sr26* and *Sr61*, 
+from *Thinopyrum ponticum* by employing MutRenSeq (Mutagenesis RenSeq).  
+
+![avatar](/blogpics/renseq.jpg)
+
 It has not yet been not possible to apply RenSeq in *B. napus* due to the low-quality reference genome, a limited understanding of resistance genes in this species, and restricted access to disease-resistant canola germplasm. 
 Recent advances such as the resequencing of canola and other Brassica spp. whole genomes (Chen et al. 2021b; Song et al. 2020; Yang et al. 2022), 
 as well as the characterization of disease-resistance genes (Dolatabadian et al. 2020), offer an ideal opportunity to design the NLR baits 
