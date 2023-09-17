@@ -3,7 +3,11 @@ layout: page
 title: About me
 ---
 
-My name is **Jiaxu Wu**, and now I am a PhD student at Université Laval, Quebec, Canada. 
+My name is **Jiaxu Wu**, and now I am a PhD student at Université Laval, Quebec, Canada.  
+
+![avatar](/blogpics/about.jpeg)  
+
+You can find my CV here.
 
 ## Education 
 **2014-2018** Bachelor of Science, Horticultural Science, Henan University of Science and Technology, Luoyang, Henan, PR of China  
