@@ -4,6 +4,6 @@
 - type: publications
   title: Publications
   url: /publications/
-## - type: tags
-  ##title: tags
-  ##url: /tags/
+- type: tags
+  title: tags
+  url: /tags/
