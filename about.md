@@ -6,7 +6,7 @@ title: About me
 My name is **Jiaxu Wu**, and now I am a PhD student of plant biology at Université Laval, Quebec, Canada. My current focuses on understanding the clubroot resistance in canola through a multidisciplinary approaches that encompasses genetics, biochemistry, and bioinformatics. Our primary objective is to assist the Canadian canola industry in effectively managing clubroot disease while maintaining sustainability. 
 On this website, I will provide regular updates about my research project and share relevant news and developments.  
 
-You can find my full CV here.  
+You can find my full CV here (as of Sep 2023).  
 
 I am working in the Prof. Edel Pérez López's lab ([Edelab](https://edelabcriv.com/)), who is my PhD supervisor.
 
