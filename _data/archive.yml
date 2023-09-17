@@ -4,6 +4,6 @@
 - type: publications
   title: Publications
   url: /publications/
-- type: tags
-  title: CV
-  url: /curriculum-vitae/
+##- type: tags
+  ##title: CV
+  ##url: /curriculum-vitae/
