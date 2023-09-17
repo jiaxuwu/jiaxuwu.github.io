@@ -8,7 +8,7 @@ tags:
 toc:  true
 date: 2022-12-01 13:56 +0800
 ---
-Canola (*Brassica napus L.*) is an important oilseed crop in the world. End uses of canola plants include cooking oil, processed food, biofuel, animal feed, etc.  
+Canola (*Brassica napus* L.) is an important oilseed crop in the world. End uses of canola plants include cooking oil, processed food, biofuel, animal feed, etc.  
 
 Canola production in Canada is distributed in the provinces of Alberta, Manitoba, Saskatchewan, Ontario, British Columbia and Quebec (Rempel et al. 2014). Based on the [**Canola Council of Canada**](https://www.canolacouncil.org/sustainability/economic/), the canola industry in Canada is estimated to an annual average value of $30 billion to the Canadian economy per year. Moreover, the canola industry provides more than 207 thousand jobs in Canada. However, in recent years, the occurrence of clubroot is increasingly severe, and in countries like Canada, which is considered an imminent risk to the canola industry (Dixon 2009; 2014; Javed et al. 2023). Clubroot disease was first found in western Canada in 2003, Alberta (Strelkov and Hwang 2014).    
 
