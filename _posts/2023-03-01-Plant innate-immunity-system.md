@@ -34,7 +34,7 @@ The CC, TIR and RPW8 domains function as signaling domains to downstream respons
 effectors. Then, sensor NLRs require helper NLRs to transduce immune signals (Jubic et al. 2019). An additional domain “integrated decoy” (ID) was found in some sensor NLR partners for direct effector 
 interaction, while other NLR functions as an executor for immune signaling (Baggs et al. 2017; Newman et al. 2019). 
 
-![avatar](/blogpics/nlr.png)
+![avatar](/blogpics/protein.jpeg)
 
 
 NLR genes are key players in clubroot resistance. The availability of the whole sequenced *B. rapa* (AA genome), *B. oleracea* (CC genome) and *B. napus* (AACC genome) genomes provides ideal resources to 
