@@ -1,5 +1,5 @@
 ---
 layout: archive-dates
-permalink: /ResearcBlogs/
+permalink: /ResearchBlogs/
 title: Dates
 ---
