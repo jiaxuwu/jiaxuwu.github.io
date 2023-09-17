@@ -1,6 +1,5 @@
 ---
-layout: archive-taxonomies
-permalink: /tags/
-title: Tags
-type: tags
+layout: archive-taxonomies2
+permalink: /curriculum-vitae/
+title: Curriculum Vitae
 ---
