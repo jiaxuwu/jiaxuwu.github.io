@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://jiaxuwu.github.io/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/about/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/ResearchBlogs/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/publications/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/2023/08/10/canola-transforamtion-note/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/2023/04/02/testing-mathjax/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/2023/03/01/Plant-innate-immunity-system/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/2022/12/01/releasing-not-pure-poole-v0-1-0/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/2020/09/29/welcome-to-not-pure-poole/</loc>
+  <lastmod>2023-09-19T15:41:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jiaxuwu.github.io/blogpics/CV_Jiaxu.pdf</loc>
+  <lastmod>2023-09-19T15:41:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
