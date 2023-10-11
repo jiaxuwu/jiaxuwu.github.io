@@ -29,4 +29,4 @@ required for RenSeq. Overall, RenSeq could be applied to Brassica crops to inves
 close collaboration with the industry to finally understand the mechanisms behind CR cultivars used by growers and move towards the development of 
 new and more stable elite cultivars.  
 
-![avatar](/blogpics/renseq2.jpg)
+![avatar](/blogpics/renseq2.jpeg)
