@@ -31,7 +31,7 @@ Although researchers and breeders have characterized multiple sources of resista
 
 ## References  
 
-https://www.ualberta.ca/folio/2023/08/new-clubroot-strains-continue-to-emerge.html 
+https://www.ualberta.ca/folio/2023/08/new-clubroot-strains-continue-to-emerge.html  
 https://www.topcropmanager.com/new-clubroot-pathotypes-and-second-generation-resistance/   
 https://www.mdpi.com/2223-7747/12/4/726  
 
