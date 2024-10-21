@@ -8,7 +8,7 @@ On this website, I will provide regular updates about my research project and sh
 
 You can find my full CV [here](/blogpics/CV_Jiaxu.pdf) (as of Sep 2023).  
 
-I am working in the Prof. Edel Pérez López's lab ([Edelab](https://edelabcriv.com/)), who is my PhD supervisor.
+I am working in the Prof. Edel Pérez López's lab ([Edelab](https://www.edelabcriv.ca/home/)), who is my PhD supervisor.
 
 ![avatar](/blogpics/about.jpeg)  
 
